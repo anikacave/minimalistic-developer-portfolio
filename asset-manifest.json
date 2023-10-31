@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/minimalistic-developer-portfolio/static/css/main.bb9a4204.css",
-    "main.js": "/minimalistic-developer-portfolio/static/js/main.4777787e.js",
+    "main.js": "/minimalistic-developer-portfolio/static/js/main.7c35d829.js",
     "static/js/787.128fc6e9.chunk.js": "/minimalistic-developer-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/compilers.jpeg": "/minimalistic-developer-portfolio/static/media/compilers.2db26272a4191a535a88.jpeg",
     "static/media/icon-black.png": "/minimalistic-developer-portfolio/static/media/icon-black.4e5de751d611b97aa3fd.png",
     "static/media/urlShortener.png": "/minimalistic-developer-portfolio/static/media/urlShortener.13a0d5d2c67c81a5c97b.png",
     "static/media/Sophia-Martinez.pdf": "/minimalistic-developer-portfolio/static/media/Sophia-Martinez.e6c05cf265b8943c23f8.pdf",
@@ -10,15 +11,15 @@
     "static/media/Edgy.jpeg": "/minimalistic-developer-portfolio/static/media/Edgy.696f79da8aa8b1f98380.jpeg",
     "static/media/RestCountries.jpeg": "/minimalistic-developer-portfolio/static/media/RestCountries.24c4bad7db2b5553e71f.jpeg",
     "static/media/github-pink.svg": "/minimalistic-developer-portfolio/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
-    "index.html": "/minimalistic-developer-portfolio/index.html",
     "static/media/codepen-pink.svg": "/minimalistic-developer-portfolio/static/media/codepen-pink.fd2bb2d813529dc2b2c48296c7adcf3b.svg",
+    "index.html": "/minimalistic-developer-portfolio/index.html",
     "static/media/linkedin-pink.svg": "/minimalistic-developer-portfolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
     "main.bb9a4204.css.map": "/minimalistic-developer-portfolio/static/css/main.bb9a4204.css.map",
-    "main.4777787e.js.map": "/minimalistic-developer-portfolio/static/js/main.4777787e.js.map",
+    "main.7c35d829.js.map": "/minimalistic-developer-portfolio/static/js/main.7c35d829.js.map",
     "787.128fc6e9.chunk.js.map": "/minimalistic-developer-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb9a4204.css",
-    "static/js/main.4777787e.js"
+    "static/js/main.7c35d829.js"
   ]
 }
