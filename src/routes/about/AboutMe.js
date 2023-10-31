@@ -1,11 +1,15 @@
 const AboutMe = () => {
   return (
     <section>
-      <h2 className="title-font pink-text h2-tag">About Me</h2>
-      <p className="white-text p-tag">
-        Transitioning from a rich 9-year background in marketing, I'm embarking on an exciting journey as a Junior Web Developer. My diverse experience has armed me with a unique perspective that blends creativity, strategic thinking, and a deep understanding of user behavior.
-        As a passionate newcomer to the world of web development, I've harnessed my drive and determination to master the latest technologies. Through dedicated learning and hands-on projects, I've become adept in crafting seamless and engaging web experiences. My toolkit includes HTML, CSS, JavaScript, and I'm well-versed in utilizing frameworks like React to bring dynamic functionalities to life.
-        What sets me apart is not only my technical aptitude but also my marketing-honed intuition. I have an innate grasp of how design and functionality converge to create meaningful user journeys. By leveraging my marketing background, I'm able to create websites that not only look stunning but also strategically drive engagement and conversions.
+      <h2 className="title-font pink-text">About Me</h2>
+      <p className="white-text">
+        Hi, I'm Anika Cave. I am currently a senior at Cornell University pursuing a degree
+        in Computer Science with a minor in Physics. I enjoy solving quantitative problems relating
+        to machine learning, artificial intelligence, and quantum computing. In particular, I am currently
+        exploring through my coursework, interests in networks, differential privacy, stochastic processes,
+        signal processing, and operating systems. <br></br><br></br>
+        In my free time, I enjoy reading books, spending time outside, and enjoying the rest of my college days with my friends!
+        After graduation, I plan on moving to New York City where I look forward to spending much of my time in museums, coffee shops, and parks.
       </p>
     </section>
   );

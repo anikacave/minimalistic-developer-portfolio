@@ -14,7 +14,8 @@ const Projects = () => {
             className="project-img"
           />
           <section className="project-description">
-            <p className="white-text p-tag">{project.description}</p>
+            <p className="pink-text">{project.title}</p>
+            <p className="white-text">{project.description}</p>
             <section className="project-meta-stack">
               {project.stack.map((stackName, index) => (
                 <p key={index}>{stackName}</p>

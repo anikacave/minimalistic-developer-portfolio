@@ -54,7 +54,7 @@ const ContactForm = () => {
           <p>I will get back to you as soon as possible!</p>
           <button type="button" onClick={() => setSubmit(false)}>Send again</button>
         </section> :
-        <form className="contact-form form-tag" onSubmit={submitForm}>
+        <form className="contact-form " onSubmit={submitForm}>
           <section className="contact-form-item">
             <input
               onChange={handleChange}

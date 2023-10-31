@@ -3,15 +3,15 @@ import { Link } from "react-router-dom";
 const HeaderPreview = () => {
   return (
     <article className="header">
-      <h1 className="header-font white-text h1-tag">
+      <h1 className="header-font white-text">
         Hi, I'm <br></br>
-        <em className="pink-text">Sophia Martinez</em>
-        <br></br>web developer
+        <em className="pink-text">Anika Cave </em>
+        {/* <br></br> Cornell Student */}
       </h1>
-      <p className="gray-text p-tag">Front End Development</p>
-      <Link className="pink-text" to="/portfolio">
+      {/* <p className="gray-text">Quantitative Developer</p> */}
+      {/* <Link className="pink-text" to="/portfolio">
         Check my work
-      </Link>
+      </Link> */}
     </article>
   );
 };

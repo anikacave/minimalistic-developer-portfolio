@@ -4,18 +4,16 @@ import ContactForm from "./ContactForm";
 
 const Contact = () => {
   useEffect(() => {
-    document.title = "Contact | Sophia Martinez";
+    document.title = "Anika Cave";
   })
   return (
     <article className="contact-main">
-      <h2 className="title-font pink-text h2-tag">Contact Me</h2>
-      <p className="white-text p-tag">
-        If you are interested to hire me I am always open to new opportunities
-        and interesting projects! Feel free to contact me if you have any other
-        requests or questions regarding web development.
+      <h2 className="title-font pink-text">Contact Me</h2>
+      <p className="white-text">
+        If you are interested in contacting me, fill out this form. Or, send a message via linkedin messages!
       </p>
       <ContactForm />
-      <Footer />
+      {/* <Footer /> */}
     </article>
   );
 };

@@ -6,14 +6,13 @@ import { useEffect } from "react";
 
 const Portfolio = () => {
   useEffect(() => {
-    document.title = "Portfolio | Sophia Martinez";
+    document.title = "Projects";
   })
   return (
     <article className="portfolio-main">
       <PortfolioDescription />
       <Projects />
       <ScrollButton />
-      <Footer />
     </article>
   );
 };

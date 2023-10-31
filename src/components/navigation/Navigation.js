@@ -21,7 +21,13 @@ const Navigation = () => {
     <article className="side-menu">
       <NavigationHamburger ToggleMenu={ToggleMenu} ref={ref} />
       <section className={`main-menu${hiddenMenu ? `` : ` active-menu`}`}>
-        <NavigationLogo closeMenu={closeMenu} />
+        <article className="header">
+          <h1 className="header-font white-text">
+            <em className="pink-text">AC</em>
+          </h1>
+          <br></br>
+        </article>
+        {/* <NavigationLogo closeMenu={closeMenu} /> */}
         <NavigationMenu closeMenu={closeMenu} />
         <NavigationSocials />
       </section>

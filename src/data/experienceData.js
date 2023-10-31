@@ -1,45 +1,63 @@
 const experienceData = [
   {
-    id: 1,
-    jobtitle: "Marketing Campaign Manager",
-    companyname: "InnovateX Solutions",
-    worktype: "Full-time",
-    duration: "Jan 2021 - Oct 2021",
-    location: "Tbilisi, Georgia",
+    id: 9,
+    jobtitle: "Incoming Quantitative Developer",
+    companyname: "Seven Eight Capital",
+    worktype: "Full-Time",
+    duration: "Expected Start Date: August 2024",
+    location: "New York, New York",
     responsibility: [
-      `Developed and executed innovative marketing campaigns that resulted in a 20% increase in brand visibility and a 15% rise in customer engagement.`,
-      `Collaborated with cross-functional teams to create compelling content for digital and print channels, ensuring consistent brand messaging.`,
-      `Conducted market research and competitor analysis, identifying key trends and insights to refine campaign strategies.`,
-      `Utilized data analytics to measure campaign performance, adjusting tactics in real-time to maximize ROI.`,
-      `Managed a team of graphic designers and copywriters, fostering a collaborative environment and ensuring timely delivery of high-quality assets.`
+
+    ],
+  },
+  {
+    id: 1,
+    jobtitle: "Quatitative Developer Intern",
+    companyname: "Seven Eight Capital",
+    worktype: "Internship",
+    duration: "May 2023 - August 2023",
+    location: "New York, New York",
+    responsibility: [
+      "TODO",
+      "TODO"
     ],
   },
   {
     id: 2,
-    jobtitle: "Social Media Strategist",
-    companyname: "NexaReach Marketing Agency",
-    worktype: "Full-time",
-    duration: "Sep 2020 - Jan 2021",
-    location: "Tbilisi, Georgia",
+    jobtitle: "Quantum Computing Researcher Intern",
+    companyname: "Interuniversity Microelectronics Centre",
+    worktype: "Internship",
+    duration: "May 2022 - August 2022",
+    location: "Leuven, Belgium",
     responsibility: [
-      `Devised and executed dynamic social media strategies across platforms, resulting in a 25% growth in follower base and a 30% boost in user engagement.`,
-      `Created engaging and shareable content, leveraging both visual and written components to enhance brand storytelling.`,
-      `Collaborated with clients to understand their unique voice and objectives, tailoring social media plans to align with their brand identity.`,
-      `Monitored social media trends and emerging platforms, recommending and implementing new strategies to keep clients ahead of the curve.`,
+      "TODO",
+      "TODO"
+    ],
+  },
+  {
+    id: 3,
+    jobtitle: "Software Engineering Intern",
+    companyname: "Brightlight Capital",
+    worktype: "Internship",
+    duration: "May 2021 - August 2021",
+    location: "Westport, Conneticut",
+    responsibility: [
+      "TODO",
+      "TODO"
     ],
   }
 ];
 
 const educationData = [
   {
-    name: "Emerald College",
-    status: "Bachelor of Science in Computer Science",
-    year: "2021",
+    name: "Cornell University College of Engineering, Ithaca NY",
+    status: "Bachelor of Science in Computer Science, Physics Minor",
+    year: "Expected Graduation Date: December 2023",
   },
   {
-    name: "Cityville High School",
+    name: "Westlake High School, Austin TX",
     status: "High School Diploma",
-    year: "2012",
+    year: "August 2020",
   }
 ];
 
