@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/minimalistic-developer-portfolio/static/css/main.bb9a4204.css",
-    "main.js": "/minimalistic-developer-portfolio/static/js/main.72bb84ac.js",
+    "main.js": "/minimalistic-developer-portfolio/static/js/main.4777787e.js",
     "static/js/787.128fc6e9.chunk.js": "/minimalistic-developer-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/icon-black.png": "/minimalistic-developer-portfolio/static/media/icon-black.4e5de751d611b97aa3fd.png",
     "static/media/urlShortener.png": "/minimalistic-developer-portfolio/static/media/urlShortener.13a0d5d2c67c81a5c97b.png",
@@ -14,11 +14,11 @@
     "static/media/codepen-pink.svg": "/minimalistic-developer-portfolio/static/media/codepen-pink.fd2bb2d813529dc2b2c48296c7adcf3b.svg",
     "static/media/linkedin-pink.svg": "/minimalistic-developer-portfolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
     "main.bb9a4204.css.map": "/minimalistic-developer-portfolio/static/css/main.bb9a4204.css.map",
-    "main.72bb84ac.js.map": "/minimalistic-developer-portfolio/static/js/main.72bb84ac.js.map",
+    "main.4777787e.js.map": "/minimalistic-developer-portfolio/static/js/main.4777787e.js.map",
     "787.128fc6e9.chunk.js.map": "/minimalistic-developer-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb9a4204.css",
-    "static/js/main.72bb84ac.js"
+    "static/js/main.4777787e.js"
   ]
 }
