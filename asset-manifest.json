@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c8858a4.css",
-    "main.js": "/static/js/main.29e765a7.js",
-    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
-    "static/media/compilers.jpeg": "/static/media/compilers.2db26272a4191a535a88.jpeg",
-    "static/media/social-network.png": "/static/media/social-network.8bb78504b51d63bbe122.png",
-    "static/media/icon-black.JPG": "/static/media/icon-black.f5f9725953bc1f752290.JPG",
-    "static/media/urlShortener.png": "/static/media/urlShortener.13a0d5d2c67c81a5c97b.png",
-    "static/media/critter.png": "/static/media/critter.92c43bdc885af7d9e2b3.png",
-    "static/media/ocaml-snip.png": "/static/media/ocaml-snip.eb32b6f51f549488b59e.png",
-    "static/media/Anika_Cave.pdf": "/static/media/Anika_Cave.83fcc41e80049d097d03.pdf",
-    "static/media/Bankist.jpeg": "/static/media/Bankist.7957967811a479c5370a.jpeg",
-    "static/media/Edgy.jpeg": "/static/media/Edgy.696f79da8aa8b1f98380.jpeg",
-    "static/media/RestCountries.jpeg": "/static/media/RestCountries.24c4bad7db2b5553e71f.jpeg",
-    "static/media/download-icon.png": "/static/media/download-icon.048855add872ebf06d8a.png",
-    "static/media/github-pink.svg": "/static/media/github-pink.487b48eb51ecd7dd9c2bff69efd67ddd.svg",
-    "static/media/codepen-pink.svg": "/static/media/codepen-pink.4e5e6c3040bf561885db57d7115ac8c3.svg",
-    "index.html": "/index.html",
-    "static/media/linkedin-pink.svg": "/static/media/linkedin-pink.76f1807213f2869ad820382f6e00ff91.svg",
-    "main.1c8858a4.css.map": "/static/css/main.1c8858a4.css.map",
-    "main.29e765a7.js.map": "/static/js/main.29e765a7.js.map",
-    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
+    "main.css": "/website/static/css/main.1c8858a4.css",
+    "main.js": "/website/static/js/main.098195af.js",
+    "static/js/787.bbe01249.chunk.js": "/website/static/js/787.bbe01249.chunk.js",
+    "static/media/compilers.jpeg": "/website/static/media/compilers.2db26272a4191a535a88.jpeg",
+    "static/media/social-network.png": "/website/static/media/social-network.8bb78504b51d63bbe122.png",
+    "static/media/icon-black.JPG": "/website/static/media/icon-black.f5f9725953bc1f752290.JPG",
+    "static/media/urlShortener.png": "/website/static/media/urlShortener.13a0d5d2c67c81a5c97b.png",
+    "static/media/critter.png": "/website/static/media/critter.92c43bdc885af7d9e2b3.png",
+    "static/media/ocaml-snip.png": "/website/static/media/ocaml-snip.eb32b6f51f549488b59e.png",
+    "static/media/Anika_Cave.pdf": "/website/static/media/Anika_Cave.83fcc41e80049d097d03.pdf",
+    "static/media/Bankist.jpeg": "/website/static/media/Bankist.7957967811a479c5370a.jpeg",
+    "static/media/Edgy.jpeg": "/website/static/media/Edgy.696f79da8aa8b1f98380.jpeg",
+    "static/media/RestCountries.jpeg": "/website/static/media/RestCountries.24c4bad7db2b5553e71f.jpeg",
+    "static/media/download-icon.png": "/website/static/media/download-icon.048855add872ebf06d8a.png",
+    "static/media/github-pink.svg": "/website/static/media/github-pink.487b48eb51ecd7dd9c2bff69efd67ddd.svg",
+    "static/media/codepen-pink.svg": "/website/static/media/codepen-pink.4e5e6c3040bf561885db57d7115ac8c3.svg",
+    "index.html": "/website/index.html",
+    "static/media/linkedin-pink.svg": "/website/static/media/linkedin-pink.76f1807213f2869ad820382f6e00ff91.svg",
+    "main.1c8858a4.css.map": "/website/static/css/main.1c8858a4.css.map",
+    "main.098195af.js.map": "/website/static/js/main.098195af.js.map",
+    "787.bbe01249.chunk.js.map": "/website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c8858a4.css",
-    "static/js/main.29e765a7.js"
+    "static/js/main.098195af.js"
   ]
 }
